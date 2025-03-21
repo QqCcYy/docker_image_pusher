@@ -6,3 +6,4 @@ xhofe/alist:latest
 prom/mysqld-exporter
 openjdk:8-alpine
 libreofficedocker/alpine:3.17
+python:3-slim
