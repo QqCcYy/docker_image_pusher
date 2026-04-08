@@ -10,4 +10,5 @@ redis:7.0.11
 sonatype/nexus3:latest
 mysql:latest
 qinchz/dm8-arm64:latest
-eclipse-temurin:8-jre-alpin
+--platform=linux/amd64 eclipse-temurin:8-jre-alpine
+--platform=linux/arm64 eclipse-temurin:8-jre-alpine
