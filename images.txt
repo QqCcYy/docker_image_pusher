@@ -13,3 +13,4 @@ qinchz/dm8-arm64:latest
 --platform=linux/amd64 eclipse-temurin:8-jre-alpine
 --platform=linux/amd64 eclipse-temurin:8-jre-jammy
 --platform=linux/arm64 eclipse-temurin:8-jre-jammy
+--platform=linux/arm64 libreofficedocker/alpine:3.17
