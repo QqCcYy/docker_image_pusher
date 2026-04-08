@@ -11,4 +11,3 @@ sonatype/nexus3:latest
 mysql:latest
 qinchz/dm8-arm64:latest
 eclipse-temurin:8-jre-alpine
-tonistiigi/binfmt:v1.1.0
